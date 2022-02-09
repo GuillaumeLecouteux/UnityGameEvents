@@ -1,0 +1,18 @@
+{
+    "name": "JauntyBear.UnityGameEvents.Editor",
+    "rootNamespace": "",
+    "references": [
+        "JauntyBear.UnityGameEvents"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
